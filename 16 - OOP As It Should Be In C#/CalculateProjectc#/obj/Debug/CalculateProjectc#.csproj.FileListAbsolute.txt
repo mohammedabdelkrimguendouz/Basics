@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\bin\Debug\CalculateProjectc#.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\bin\Debug\CalculateProjectc#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\bin\Debug\CalculateProjectc#.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\obj\Debug\CalculateProjectc#.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\obj\Debug\CalculateProjectc#.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\obj\Debug\CalculateProjectc#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\CalculateProjectc#\obj\Debug\CalculateProjectc#.pdb

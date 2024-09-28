@@ -1,0 +1,10 @@
+C:\Users\KarimPc\Desktop\Serial Key Generator\bin\Debug\Serial Key Generator.exe.config
+C:\Users\KarimPc\Desktop\Serial Key Generator\bin\Debug\Serial Key Generator.exe
+C:\Users\KarimPc\Desktop\Serial Key Generator\bin\Debug\Serial Key Generator.pdb
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial Key Generator.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial_Key_Generator.Form1.resources
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial_Key_Generator.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial Key Generator.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial Key Generator.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial Key Generator.exe
+C:\Users\KarimPc\Desktop\Serial Key Generator\obj\Debug\Serial Key Generator.pdb

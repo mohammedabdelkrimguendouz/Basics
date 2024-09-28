@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\bin\Debug\Implementing IDictionary.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\bin\Debug\Implementing IDictionary.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\bin\Debug\Implementing IDictionary.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\obj\Debug\Implementing IDictionary.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\obj\Debug\Implementing IDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\obj\Debug\Implementing IDictionary.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IDictionary\obj\Debug\Implementing IDictionary.pdb

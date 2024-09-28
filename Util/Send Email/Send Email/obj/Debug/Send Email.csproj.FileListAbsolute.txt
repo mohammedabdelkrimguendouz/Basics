@@ -1,0 +1,14 @@
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\Send Email.exe.config
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\Send Email.exe
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\Send Email.pdb
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send_Email.Form1.resources
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send_Email.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.exe
+C:\Users\PC0\Desktop\basics\Project\Send Email\Send Email\obj\Debug\Send Email.pdb

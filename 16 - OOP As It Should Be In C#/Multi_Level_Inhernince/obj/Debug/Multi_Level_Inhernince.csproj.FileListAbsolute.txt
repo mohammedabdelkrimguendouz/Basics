@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\bin\Debug\Multi_Level_Inhernince.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\bin\Debug\Multi_Level_Inhernince.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\bin\Debug\Multi_Level_Inhernince.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\obj\Debug\Multi_Level_Inhernince.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\obj\Debug\Multi_Level_Inhernince.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\obj\Debug\Multi_Level_Inhernince.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Multi_Level_Inhernince\obj\Debug\Multi_Level_Inhernince.pdb

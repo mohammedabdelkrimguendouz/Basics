@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\bin\Debug\Func Delegate with lambda Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\bin\Debug\Func Delegate with lambda Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\bin\Debug\Func Delegate with lambda Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\obj\Debug\Func Delegate with lambda Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\obj\Debug\Func Delegate with lambda Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\obj\Debug\Func Delegate with lambda Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Func Delegate with lambda Example\Func Delegate with lambda Example\obj\Debug\Func Delegate with lambda Example.pdb

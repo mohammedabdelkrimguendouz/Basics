@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\bin\Debug\Working with SortedDictionary.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\bin\Debug\Working with SortedDictionary.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\bin\Debug\Working with SortedDictionary.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\obj\Debug\Working with SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\obj\Debug\Working with SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\obj\Debug\Working with SortedDictionary.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedDictionary\obj\Debug\Working with SortedDictionary.pdb

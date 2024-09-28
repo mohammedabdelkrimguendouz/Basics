@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\Basics\\01-web-Introduction to RESTful API\\Example 4 Shutdown Windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5DFBC2-EE10-496A-9DF1-2B4C2B0D2B3A}|Example 4 Shutdown Windows.csproj|c:\\users\\pc0\\desktop\\basics\\01-web-introduction to restful api\\example 4 shutdown windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5DFBC2-EE10-496A-9DF1-2B4C2B0D2B3A}|Example 4 Shutdown Windows.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\Basics\\01-web-Introduction to RESTful API\\Example 4 Shutdown Windows\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\Basics\\01-web-Introduction to RESTful API\\Example 4 Shutdown Windows\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:35:52.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

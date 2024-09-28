@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\bin\Debug\Parallel_For.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\bin\Debug\Parallel_For.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\bin\Debug\Parallel_For.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\obj\Debug\Parallel_For.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\obj\Debug\Parallel_For.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\obj\Debug\Parallel_For.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_For\Parallel_For\obj\Debug\Parallel_For.pdb

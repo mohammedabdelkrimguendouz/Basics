@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\bin\Debug\Converting an Array to List.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\bin\Debug\Converting an Array to List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\bin\Debug\Converting an Array to List.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\obj\Debug\Converting an Array to List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\obj\Debug\Converting an Array to List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\obj\Debug\Converting an Array to List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Converting an Array to List\obj\Debug\Converting an Array to List.pdb

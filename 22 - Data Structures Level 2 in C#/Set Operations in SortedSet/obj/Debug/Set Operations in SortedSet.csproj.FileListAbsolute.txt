@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\bin\Debug\Set Operations in SortedSet.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\bin\Debug\Set Operations in SortedSet.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\bin\Debug\Set Operations in SortedSet.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\obj\Debug\Set Operations in SortedSet.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\obj\Debug\Set Operations in SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\obj\Debug\Set Operations in SortedSet.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Set Operations in SortedSet\obj\Debug\Set Operations in SortedSet.pdb

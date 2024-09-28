@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\bin\Debug\oop_c#.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\bin\Debug\oop_c#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\bin\Debug\oop_c#.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\obj\Debug\oop_c#.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\obj\Debug\oop_c#.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\obj\Debug\oop_c#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\oop_c#\obj\Debug\oop_c#.pdb

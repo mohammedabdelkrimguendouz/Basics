@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\bin\Debug\Stack Collection.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\bin\Debug\Stack Collection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\bin\Debug\Stack Collection.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\obj\Debug\Stack Collection.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\obj\Debug\Stack Collection.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\obj\Debug\Stack Collection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Stack Collection\obj\Debug\Stack Collection.pdb

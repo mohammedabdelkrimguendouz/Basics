@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\bin\Debug\LifeProject_Using(Constructore+StaticMethde).exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\bin\Debug\LifeProject_Using(Constructore+StaticMethde).exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\bin\Debug\LifeProject_Using(Constructore+StaticMethde).pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\obj\Debug\LifeProject_Using(Constructore+StaticMethde).csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\obj\Debug\LifeProject_Using(Constructore+StaticMethde).csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\obj\Debug\LifeProject_Using(Constructore+StaticMethde).exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\LifeProject_Using(Constructore+StaticMethde)\obj\Debug\LifeProject_Using(Constructore+StaticMethde).pdb

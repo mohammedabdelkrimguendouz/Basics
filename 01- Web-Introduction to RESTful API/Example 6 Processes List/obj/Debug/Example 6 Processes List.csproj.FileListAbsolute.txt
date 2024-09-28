@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\bin\Debug\Example 6 Processes List.exe.config
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\bin\Debug\Example 6 Processes List.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\bin\Debug\Example 6 Processes List.pdb
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\obj\Debug\Example 6 Processes List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\obj\Debug\Example 6 Processes List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\obj\Debug\Example 6 Processes List.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 6 Processes List\obj\Debug\Example 6 Processes List.pdb

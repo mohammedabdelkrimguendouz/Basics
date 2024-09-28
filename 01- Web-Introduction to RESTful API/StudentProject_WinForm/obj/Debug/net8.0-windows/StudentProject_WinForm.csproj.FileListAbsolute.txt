@@ -1,0 +1,17 @@
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\bin\Debug\net8.0-windows\StudentProject_WinForm.exe
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\bin\Debug\net8.0-windows\StudentProject_WinForm.deps.json
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\bin\Debug\net8.0-windows\StudentProject_WinForm.runtimeconfig.json
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\bin\Debug\net8.0-windows\StudentProject_WinForm.dll
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\bin\Debug\net8.0-windows\StudentProject_WinForm.pdb
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.AssemblyInfo.cs
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.dll
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\refint\StudentProject_WinForm.dll
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.pdb
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.genruntimeconfig.cache
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\ref\StudentProject_WinForm.dll
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.frmAddEditStudents.resources
+C:\Users\DELL PRO\Videos\StudentProject_WinForm\obj\Debug\net8.0-windows\StudentProject_WinForm.frmStudents.resources

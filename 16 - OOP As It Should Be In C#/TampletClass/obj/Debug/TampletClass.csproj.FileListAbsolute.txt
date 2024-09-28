@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\bin\Debug\TampletClass.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\bin\Debug\TampletClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\bin\Debug\TampletClass.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\obj\Debug\TampletClass.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\obj\Debug\TampletClass.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\obj\Debug\TampletClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TampletClass\obj\Debug\TampletClass.pdb

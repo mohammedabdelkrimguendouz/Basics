@@ -1,0 +1,11 @@
+C:\Users\KarimPc\Desktop\MDISample\bin\Debug\MDISample.exe.config
+C:\Users\KarimPc\Desktop\MDISample\bin\Debug\MDISample.exe
+C:\Users\KarimPc\Desktop\MDISample\bin\Debug\MDISample.pdb
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.Form1.resources
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.exe
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.pdb
+C:\Users\KarimPc\Desktop\MDISample\obj\Debug\MDISample.Form2.resources

@@ -1,0 +1,14 @@
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.exe
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.exe
+C:\Users\PC0\Desktop\basics\Cours 20\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.pdb
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.exe.config
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.exe
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\bin\Debug\SP_AddNewPerson.pdb
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.exe
+C:\Users\PC0\Desktop\basics\20 - C# Programming Level 2\SP_AddNewPerson\SP_AddNewPerson\obj\Debug\SP_AddNewPerson.pdb

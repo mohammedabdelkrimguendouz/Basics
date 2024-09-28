@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\bin\Debug\Creating and Adding Items to ObservableCollection.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\bin\Debug\Creating and Adding Items to ObservableCollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\bin\Debug\Creating and Adding Items to ObservableCollection.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\obj\Debug\Creating and Adding Items to ObservableCollection.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\obj\Debug\Creating and Adding Items to ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\obj\Debug\Creating and Adding Items to ObservableCollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Creating and Adding Items to ObservableCollection\obj\Debug\Creating and Adding Items to ObservableCollection.pdb

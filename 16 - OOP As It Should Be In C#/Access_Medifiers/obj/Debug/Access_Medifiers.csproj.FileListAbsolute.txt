@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\bin\Debug\Access_Medifiers.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\bin\Debug\Access_Medifiers.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\bin\Debug\Access_Medifiers.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\obj\Debug\Access_Medifiers.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\obj\Debug\Access_Medifiers.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\obj\Debug\Access_Medifiers.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Access_Medifiers\obj\Debug\Access_Medifiers.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryGetValue Method in C# Dictionaries", "TryGetValue Method in C# Dictionaries.csproj", "{C8AA5452-7398-4915-8EBF-58251416D234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AA5452-7398-4915-8EBF-58251416D234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AA5452-7398-4915-8EBF-58251416D234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AA5452-7398-4915-8EBF-58251416D234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AA5452-7398-4915-8EBF-58251416D234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49157F0A-C102-4136-9244-E69D07E8767C}
+	EndGlobalSection
+EndGlobal

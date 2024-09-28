@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converting an Array to List", "Converting an Array to List.csproj", "{A9980F72-DC14-47B9-BB3D-488D0FFFA32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9980F72-DC14-47B9-BB3D-488D0FFFA32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9980F72-DC14-47B9-BB3D-488D0FFFA32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9980F72-DC14-47B9-BB3D-488D0FFFA32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9980F72-DC14-47B9-BB3D-488D0FFFA32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADB83ED-E095-47D4-88D6-C2514B40CB74}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\bin\Debug\Parameterized-Constructor.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\bin\Debug\Parameterized-Constructor.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\bin\Debug\Parameterized-Constructor.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\obj\Debug\Parameterized-Constructor.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\obj\Debug\Parameterized-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\obj\Debug\Parameterized-Constructor.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameterized-Constructor\obj\Debug\Parameterized-Constructor.pdb

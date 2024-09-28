@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\bin\Debug\Nullable Data Types.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\bin\Debug\Nullable Data Types.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\bin\Debug\Nullable Data Types.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\obj\Debug\Nullable Data Types.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\obj\Debug\Nullable Data Types.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\obj\Debug\Nullable Data Types.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Nullable Data Types\Nullable Data Types\obj\Debug\Nullable Data Types.pdb

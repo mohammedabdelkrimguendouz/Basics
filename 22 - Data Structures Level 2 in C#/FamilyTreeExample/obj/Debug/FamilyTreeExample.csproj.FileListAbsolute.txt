@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\bin\Debug\FamilyTreeExample.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\bin\Debug\FamilyTreeExample.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\bin\Debug\FamilyTreeExample.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\obj\Debug\FamilyTreeExample.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\obj\Debug\FamilyTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\obj\Debug\FamilyTreeExample.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\FamilyTreeExample\obj\Debug\FamilyTreeExample.pdb

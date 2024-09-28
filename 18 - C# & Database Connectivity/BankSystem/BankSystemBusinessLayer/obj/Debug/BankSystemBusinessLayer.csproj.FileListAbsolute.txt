@@ -1,0 +1,9 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.pdb

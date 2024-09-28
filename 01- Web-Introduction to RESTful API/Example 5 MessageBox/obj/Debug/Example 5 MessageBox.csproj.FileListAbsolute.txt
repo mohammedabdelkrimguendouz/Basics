@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\bin\Debug\Example 5 MessageBox.exe.config
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\bin\Debug\Example 5 MessageBox.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\bin\Debug\Example 5 MessageBox.pdb
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\obj\Debug\Example 5 MessageBox.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\obj\Debug\Example 5 MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\obj\Debug\Example 5 MessageBox.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 5 MessageBox\obj\Debug\Example 5 MessageBox.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\bin\Debug\Working with ArrayList.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\bin\Debug\Working with ArrayList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\bin\Debug\Working with ArrayList.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\obj\Debug\Working with ArrayList.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\obj\Debug\Working with ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\obj\Debug\Working with ArrayList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with ArrayList\obj\Debug\Working with ArrayList.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\bin\Debug\Copying Arrays.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\bin\Debug\Copying Arrays.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\bin\Debug\Copying Arrays.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\obj\Debug\Copying Arrays.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\obj\Debug\Copying Arrays.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\obj\Debug\Copying Arrays.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Copying Arrays\obj\Debug\Copying Arrays.pdb

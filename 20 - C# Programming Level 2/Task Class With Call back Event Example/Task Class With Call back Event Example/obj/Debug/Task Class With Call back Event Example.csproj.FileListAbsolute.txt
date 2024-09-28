@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\bin\Debug\Task Class With Call back Event Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\bin\Debug\Task Class With Call back Event Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\bin\Debug\Task Class With Call back Event Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.pdb

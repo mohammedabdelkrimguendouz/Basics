@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\bin\Debug\Introduction to Custom Controls.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\bin\Debug\Introduction to Custom Controls.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\bin\Debug\Introduction to Custom Controls.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction to Custom Controls.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction_to_Custom_Controls.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction to Custom Controls.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction to Custom Controls.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction to Custom Controls.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction to Custom Controls.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Introduction to Custom Controls\Introduction to Custom Controls\obj\Debug\Introduction_to_Custom_Controls.Form1.resources

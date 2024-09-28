@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\bin\Debug\SP_CheckPersonExists.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\bin\Debug\SP_CheckPersonExists.exe
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\bin\Debug\SP_CheckPersonExists.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\obj\Debug\SP_CheckPersonExists.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\obj\Debug\SP_CheckPersonExists.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\obj\Debug\SP_CheckPersonExists.exe
+C:\Users\PC0\Desktop\basics\Cours 20\SP_CheckPersonExists\SP_CheckPersonExists\obj\Debug\SP_CheckPersonExists.pdb

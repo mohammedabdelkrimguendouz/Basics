@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.pdb

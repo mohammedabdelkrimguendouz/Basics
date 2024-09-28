@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\bin\Debug\Linq with SortedSet Example2.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\bin\Debug\Linq with SortedSet Example2.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\bin\Debug\Linq with SortedSet Example2.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\obj\Debug\Linq with SortedSet Example2.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\obj\Debug\Linq with SortedSet Example2.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\obj\Debug\Linq with SortedSet Example2.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Linq with SortedSet Example2\obj\Debug\Linq with SortedSet Example2.pdb

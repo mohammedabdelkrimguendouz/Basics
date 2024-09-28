@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\bin\Debug\Working with SortedList.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\bin\Debug\Working with SortedList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\bin\Debug\Working with SortedList.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\obj\Debug\Working with SortedList.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\obj\Debug\Working with SortedList.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\obj\Debug\Working with SortedList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with SortedList\obj\Debug\Working with SortedList.pdb

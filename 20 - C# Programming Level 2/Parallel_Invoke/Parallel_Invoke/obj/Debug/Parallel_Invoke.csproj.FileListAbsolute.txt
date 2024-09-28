@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\bin\Debug\Parallel_Invoke.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\bin\Debug\Parallel_Invoke.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\bin\Debug\Parallel_Invoke.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\obj\Debug\Parallel_Invoke.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\obj\Debug\Parallel_Invoke.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\obj\Debug\Parallel_Invoke.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parallel_Invoke\Parallel_Invoke\obj\Debug\Parallel_Invoke.pdb

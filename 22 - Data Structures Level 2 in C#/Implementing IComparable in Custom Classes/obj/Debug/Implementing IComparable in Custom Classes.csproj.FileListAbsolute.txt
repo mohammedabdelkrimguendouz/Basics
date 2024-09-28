@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\bin\Debug\Implementing IComparable in Custom Classes.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\bin\Debug\Implementing IComparable in Custom Classes.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\bin\Debug\Implementing IComparable in Custom Classes.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\obj\Debug\Implementing IComparable in Custom Classes.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\obj\Debug\Implementing IComparable in Custom Classes.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\obj\Debug\Implementing IComparable in Custom Classes.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IComparable in Custom Classes\obj\Debug\Implementing IComparable in Custom Classes.pdb

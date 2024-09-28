@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\bin\Debug\Task Factory Class.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\bin\Debug\Task Factory Class.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\bin\Debug\Task Factory Class.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\obj\Debug\Task Factory Class.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\obj\Debug\Task Factory Class.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\obj\Debug\Task Factory Class.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Factory Class\Task Factory Class\obj\Debug\Task Factory Class.pdb

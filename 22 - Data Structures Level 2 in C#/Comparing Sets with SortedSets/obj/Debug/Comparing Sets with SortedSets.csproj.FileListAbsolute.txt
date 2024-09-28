@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\bin\Debug\Comparing Sets with SortedSets.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\bin\Debug\Comparing Sets with SortedSets.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\bin\Debug\Comparing Sets with SortedSets.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\obj\Debug\Comparing Sets with SortedSets.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\obj\Debug\Comparing Sets with SortedSets.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\obj\Debug\Comparing Sets with SortedSets.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with SortedSets\obj\Debug\Comparing Sets with SortedSets.pdb

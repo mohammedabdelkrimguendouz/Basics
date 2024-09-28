@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\KarimPc\Desktop\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\KarimPc\Desktop\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\KarimPc\Desktop\DigitalClock\bin\Debug\Guna.UI2.dll
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\KarimPc\Desktop\DigitalClock\obj\Debug\DigitalClock.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\bin\Debug\SendDataToForm.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\bin\Debug\SendDataToForm.exe
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\bin\Debug\SendDataToForm.pdb
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.Form1.resources
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.Form2.resources
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.exe
+C:\Users\PC0\Desktop\basics\Cours19\SendDataToForm\SendDataToForm\obj\Debug\SendDataToForm.pdb

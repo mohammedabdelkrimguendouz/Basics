@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "FirstRESTProject.Controllers.MyFirstAPIController",
+    "Method": "Multi2Numbers",
+    "RelativePath": "api/MyFirstAPI/Multi/{Num1}/{Num2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Num1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Num2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FirstRESTProject.Controllers.MyFirstAPIController",
+    "Method": "GetMyName",
+    "RelativePath": "api/MyFirstAPI/MyName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "MyName"
+  },
+  {
+    "ContainingType": "FirstRESTProject.Controllers.MyFirstAPIController",
+    "Method": "Sum2Numbers",
+    "RelativePath": "api/MyFirstAPI/Sum/{Num1}/{Num2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Num1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Num2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FirstRESTProject.Controllers.MyFirstAPIController",
+    "Method": "GetYourName",
+    "RelativePath": "api/MyFirstAPI/YourName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "YourName"
+  }
+]

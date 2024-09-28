@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\22 - Data Structures Level 2 in C#\\Comparing Sets with HashSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2BBEA-5253-496B-A773-05472A6394A0}|Comparing Sets with HashSet.csproj|c:\\users\\pc0\\desktop\\basics\\22 - data structures level 2 in c#\\comparing sets with hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2BBEA-5253-496B-A773-05472A6394A0}|Comparing Sets with HashSet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\22 - Data Structures Level 2 in C#\\Comparing Sets with HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\22 - Data Structures Level 2 in C#\\Comparing Sets with HashSet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwBwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:02:49.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

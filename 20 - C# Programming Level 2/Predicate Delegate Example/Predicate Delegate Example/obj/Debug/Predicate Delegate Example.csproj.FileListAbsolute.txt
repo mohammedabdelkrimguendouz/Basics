@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\bin\Debug\Predicate Delegate Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\bin\Debug\Predicate Delegate Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\bin\Debug\Predicate Delegate Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\obj\Debug\Predicate Delegate Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\obj\Debug\Predicate Delegate Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\obj\Debug\Predicate Delegate Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Predicate Delegate Example\Predicate Delegate Example\obj\Debug\Predicate Delegate Example.pdb

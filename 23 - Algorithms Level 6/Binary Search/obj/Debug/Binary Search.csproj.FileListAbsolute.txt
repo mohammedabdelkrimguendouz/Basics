@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Binary Search\obj\Debug\Binary Search.pdb

@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\bin\Debug\PrivateConctrutor-VS-StaticClass.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\bin\Debug\PrivateConctrutor-VS-StaticClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\bin\Debug\PrivateConctrutor-VS-StaticClass.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\obj\Debug\PrivateConctrutor-VS-StaticClass.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\obj\Debug\PrivateConctrutor-VS-StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\obj\Debug\PrivateConctrutor-VS-StaticClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PrivateConctrutor-VS-StaticClass\obj\Debug\PrivateConctrutor-VS-StaticClass.pdb

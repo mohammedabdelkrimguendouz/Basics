@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\SP_CheckPersonExists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0D7B4-6150-441B-9DB8-9EAA4E4727F1}|SP_CheckPersonExists\\SP_CheckPersonExists.csproj|c:\\users\\pc0\\desktop\\basics\\cours 20\\sp_checkpersonexists\\sp_checkpersonexists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0D7B4-6150-441B-9DB8-9EAA4E4727F1}|SP_CheckPersonExists\\SP_CheckPersonExists.csproj|solutionrelative:sp_checkpersonexists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\SP_CheckPersonExists\\SP_CheckPersonExists\\Program.cs",
+              "RelativeDocumentMoniker": "SP_CheckPersonExists\\Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\SP_CheckPersonExists\\SP_CheckPersonExists\\Program.cs",
+              "RelativeToolTip": "SP_CheckPersonExists\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:05:45.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

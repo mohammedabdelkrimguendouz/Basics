@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\bin\Debug\StaticClass_StaticProperties.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\bin\Debug\StaticClass_StaticProperties.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\bin\Debug\StaticClass_StaticProperties.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\obj\Debug\StaticClass_StaticProperties.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\obj\Debug\StaticClass_StaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\obj\Debug\StaticClass_StaticProperties.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticClass_StaticProperties\obj\Debug\StaticClass_StaticProperties.pdb

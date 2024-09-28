@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\bin\Debug\C# using to create an alias.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\bin\Debug\C# using to create an alias.exe
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\bin\Debug\C# using to create an alias.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\obj\Debug\C# using to create an alias.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\obj\Debug\C# using to create an alias.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\obj\Debug\C# using to create an alias.exe
+C:\Users\PC0\Desktop\basics\Cours 20\C# using to create an alias\C# using to create an alias\obj\Debug\C# using to create an alias.pdb

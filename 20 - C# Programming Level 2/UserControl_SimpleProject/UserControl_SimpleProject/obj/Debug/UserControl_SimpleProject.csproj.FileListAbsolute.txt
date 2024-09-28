@@ -1,0 +1,11 @@
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\bin\Debug\UserControl_SimpleProject.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\bin\Debug\UserControl_SimpleProject.exe
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\bin\Debug\UserControl_SimpleProject.pdb
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.Form1.resources
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.exe
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.pdb
+C:\Users\PC0\Desktop\basics\Cours19\UserControl_SimpleProject\UserControl_SimpleProject\obj\Debug\UserControl_SimpleProject.ctrlSimpleCalc.resources

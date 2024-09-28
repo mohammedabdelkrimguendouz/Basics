@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\bin\Debug\SealedMethod.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\bin\Debug\SealedMethod.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\bin\Debug\SealedMethod.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\obj\Debug\SealedMethod.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\obj\Debug\SealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\obj\Debug\SealedMethod.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\SealedMethod\obj\Debug\SealedMethod.pdb

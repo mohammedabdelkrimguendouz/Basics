@@ -1,0 +1,18 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Contacts\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

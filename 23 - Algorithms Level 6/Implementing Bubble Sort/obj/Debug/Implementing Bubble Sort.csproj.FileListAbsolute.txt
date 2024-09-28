@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\bin\Debug\Implementing Bubble Sort.exe.config
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\bin\Debug\Implementing Bubble Sort.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\bin\Debug\Implementing Bubble Sort.pdb
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\obj\Debug\Implementing Bubble Sort.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\obj\Debug\Implementing Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\obj\Debug\Implementing Bubble Sort.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Implementing Bubble Sort\obj\Debug\Implementing Bubble Sort.pdb

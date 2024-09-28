@@ -1,0 +1,14 @@
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\bin\Debug\net8.0\Student API Client.exe
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\bin\Debug\net8.0\Student API Client.deps.json
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\bin\Debug\net8.0\Student API Client.runtimeconfig.json
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\bin\Debug\net8.0\Student API Client.dll
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\bin\Debug\net8.0\Student API Client.pdb
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.AssemblyInfo.cs
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.dll
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\refint\Student API Client.dll
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.pdb
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\Student API Client.genruntimeconfig.cache
+C:\Users\DELL PRO\Desktop\Karim\Student API Client\obj\Debug\net8.0\ref\Student API Client.dll

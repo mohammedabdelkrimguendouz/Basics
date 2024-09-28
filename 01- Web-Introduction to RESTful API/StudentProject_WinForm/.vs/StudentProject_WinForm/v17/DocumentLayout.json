@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|c:\\users\\dell pro\\videos\\studentproject_winform\\frmaddeditstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|solutionrelative:frmaddeditstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmaddeditstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|solutionrelative:frmaddeditstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|solutionrelative:frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|c:\\users\\dell pro\\videos\\studentproject_winform\\frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|solutionrelative:frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|c:\\users\\dell pro\\videos\\studentproject_winform\\frmaddeditstudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F36F637-0DB9-4F99-8E14-D3070BBDAA53}|StudentProject_WinForm.csproj|solutionrelative:frmaddeditstudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditStudents.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.cs",
+              "RelativeDocumentMoniker": "frmAddEditStudents.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.cs",
+              "RelativeToolTip": "frmAddEditStudents.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:13:04.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddEditStudents.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.cs",
+              "RelativeDocumentMoniker": "frmAddEditStudents.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.cs [Conception]",
+              "RelativeToolTip": "frmAddEditStudents.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:42:28.426Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmStudents.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmStudents.cs",
+              "RelativeDocumentMoniker": "frmStudents.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmStudents.cs",
+              "RelativeToolTip": "frmStudents.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:45:46.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudents.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmStudents.cs",
+              "RelativeDocumentMoniker": "frmStudents.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmStudents.cs [Conception]",
+              "RelativeToolTip": "frmStudents.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:44:09.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddEditStudents.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.Designer.cs",
+              "RelativeDocumentMoniker": "frmAddEditStudents.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\StudentProject_WinForm\\frmAddEditStudents.Designer.cs",
+              "RelativeToolTip": "frmAddEditStudents.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:40:26.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

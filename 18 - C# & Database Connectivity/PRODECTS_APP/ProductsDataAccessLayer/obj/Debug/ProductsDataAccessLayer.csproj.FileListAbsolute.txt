@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\bin\Debug\ProductsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\bin\Debug\ProductsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\bin\Debug\ProductsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\bin\Debug\ProductsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\basics\Cours-18-ConnectDataBase\PRODECTS_APP\ProductsDataAccessLayer\obj\Debug\ProductsDataAccessLayer.pdb

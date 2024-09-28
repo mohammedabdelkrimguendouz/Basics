@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.pdb

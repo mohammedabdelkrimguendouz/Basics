@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\bin\Debug\News Publisher Subscriber Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\News Publisher Subscriber Example\News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.pdb

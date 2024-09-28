@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\bin\Debug\Parameterized Thread.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\bin\Debug\Parameterized Thread.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\bin\Debug\Parameterized Thread.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\obj\Debug\Parameterized Thread.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\obj\Debug\Parameterized Thread.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\obj\Debug\Parameterized Thread.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Parameterized Thread\Parameterized Thread\obj\Debug\Parameterized Thread.pdb

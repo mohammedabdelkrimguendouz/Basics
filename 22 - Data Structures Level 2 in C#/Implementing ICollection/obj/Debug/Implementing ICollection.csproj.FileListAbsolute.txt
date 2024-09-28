@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\bin\Debug\Implementing ICollection.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\bin\Debug\Implementing ICollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\bin\Debug\Implementing ICollection.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\obj\Debug\Implementing ICollection.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\obj\Debug\Implementing ICollection.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\obj\Debug\Implementing ICollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing ICollection\obj\Debug\Implementing ICollection.pdb

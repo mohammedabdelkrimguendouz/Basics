@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\obj\Debug\Task Class Example 1.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\obj\Debug\Task Class Example 1.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\bin\Debug\Task Class Example 1.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\bin\Debug\Task Class Example 1.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\bin\Debug\Task Class Example 1.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\obj\Debug\Task Class Example 1.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task Class Example 1\Task Class Example 1\obj\Debug\Task Class Example 1.pdb

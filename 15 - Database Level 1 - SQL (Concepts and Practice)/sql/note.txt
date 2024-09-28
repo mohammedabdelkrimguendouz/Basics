@@ -1,0 +1,5 @@
+@@identity -->number final row == auto number
+
+scope_identity() ;
+
+truncate table name ---> delete all content table and identity =0;

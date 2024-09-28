@@ -1,0 +1,169 @@
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('iPhone 13', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Apple iPhone 13 with A15 Bionic chip', 1),
+('iPad Pro', 1099, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Apple iPad Pro with M1 chip', 2),
+('MacBook Pro', 1299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Apple MacBook Pro 13-inch with M1 chip', 3),
+('Dell XPS Desktop', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Dell XPS Desktop with 10th Gen Intel Core i7', 4),
+('NVIDIA RTX 3080', 699, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'NVIDIA GeForce RTX 3080 Graphics Card', 5),
+('Samsung 65-inch TV', 1500, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 25, 'Samsung 65-inch QLED Smart TV', 6),
+('Bose Sound System', 499, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Bose 5.1 Channel Home Theater System', 7),
+('Xiaomi Mi Band 6', 45, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 150, 'Xiaomi Mi Smart Band 6', 8);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Galaxy S21', 700, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Samsung Galaxy S21 with Exynos 2100', 1),
+('Surface Pro 7', 950, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Microsoft Surface Pro 7 with 10th Gen Intel Core Processor', 2),
+('HP Spectre x360', 1200, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'HP Spectre x360 2-in-1 Laptop with Intel Core i7', 3),
+('Alienware Gaming Desktop', 2100, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 20, 'Alienware Gaming Desktop with 10th Gen Intel Core i7 and NVIDIA RTX 3080', 4),
+('AMD Ryzen 9 5900X', 549, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 35, 'AMD Ryzen 9 5900X 12-core, 24-thread processor', 5),
+('LG OLED55C1', 1300, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 15, 'LG OLED55C1 55 Inch OLED TV with AI ThinQ', 6),
+('Sony WH-1000XM4', 350, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Sony WH-1000XM4 Wireless Noise Cancelling Headphones', 7),
+('Fitbit Charge 4', 150, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 110, 'Fitbit Charge 4 Fitness and Activity Tracker', 8);
+
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Sony PlayStation 5', 499, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 150, 'Sony PlayStation 5 with ultra-high speed SSD and integrated I/O', 6),
+('Xbox Series X', 499, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 150, 'Xbox Series X, the fastest, most powerful Xbox ever.', 6),
+('Nintendo Switch', 299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 200, 'Nintendo Switch, play at home or on the go.', 6),
+('Logitech G502 Mouse', 49.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Logitech G502 HERO High Performance Gaming Mouse', 5),
+('Corsair K95 Keyboard', 199.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 75, 'Corsair K95 RGB PLATINUM Mechanical Gaming Keyboard', 5),
+('Razer DeathAdder Mouse', 69.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'Razer DeathAdder V2 Gaming Mouse', 5),
+('Samsung Galaxy Tab S7', 649.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Samsung Galaxy Tab S7 - 11-inch Android Tablet', 2),
+('Amazon Echo Dot 4th Gen', 49.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'Amazon Echo Dot (4th Gen) Smart speaker with Alexa', 7),
+('Google Nest Hub', 89.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Google Nest Hub - Smart Home Speaker and Display', 7),
+('Canon EOS R5', 3899, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Canon EOS R5 Full-Frame Mirrorless Camera', 6),
+('Nikon Z6 II', 1999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 35, 'Nikon Z6 II Mirrorless Camera', 6),
+('DJI Mavic Air 2', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'DJI Mavic Air 2 - Drone Quadcopter UAV', 6),
+('OnePlus 9 Pro', 1069, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'OnePlus 9 Pro 5G Smartphone', 1),
+('Xiaomi Mi 11 Ultra', 1199, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 65, 'Xiaomi Mi 11 Ultra - 12GB RAM, 256GB Storage', 1),
+('ASUS ROG Phone 5', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'ASUS ROG Phone 5 Gaming Smartphone', 1),
+('HP Envy x360', 849.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'HP Envy x360 Convertible 15-inch Laptop', 3),
+('Lenovo Legion 5', 999.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Lenovo Legion 5 15.6" FHD Gaming Laptop', 3),
+('Apple Watch Series 6', 399, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Apple Watch Series 6 GPS, 40mm', 8),
+('Fitbit Versa 3', 229.95, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Fitbit Versa 3 Health & Fitness Smartwatch', 8);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Dell XPS 13', 1200, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Dell XPS 13 9310 Thin and Light Touchscreen Laptop', 3),
+('Apple MacBook Pro 13', 1300, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 35, 'Apple MacBook Pro 13 with M1 Chip', 3),
+('Acer Predator Helios 300', 1150, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Acer Predator Helios 300 Gaming Laptop', 3),
+('Asus ROG Strix G15', 1400, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'Asus ROG Strix G15 Gaming Laptop', 3),
+('MSI GF65 Thin', 1050, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'MSI GF65 Thin 9SEXR-249 Gaming Laptop', 3),
+('Lenovo IdeaPad 3', 450, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Lenovo IdeaPad 3 14" Laptop', 3),
+('Apple iPad Pro 12.9-inch', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 65, 'Apple iPad Pro 12.9-inch (4th Generation)', 2),
+('Samsung Galaxy Tab A7', 219, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Samsung Galaxy Tab A7 10.4 Wi-Fi 32GB', 2),
+('Huawei MatePad Pro', 600, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 55, 'Huawei MatePad Pro WiFi 10.8-inch Tablet', 2),
+('Microsoft Surface Go 2', 550, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Microsoft Surface Go 2 - 10.5" Touch-Screen', 2),
+('JBL Flip 5', 119.95, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 110, 'JBL Flip 5 Waterproof Portable Bluetooth Speaker', 7),
+('Bose QuietComfort 35 II', 299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Bose QuietComfort 35 II Wireless Bluetooth Headphones', 7),
+('Sonos One', 199, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'Sonos One (Gen 2) Voice Controlled Smart Speaker', 7),
+('UE Boom 3', 129.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 95, 'Ultimate Ears BOOM 3 Portable Waterproof Bluetooth Speaker', 7),
+('Apple iPhone 12', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Apple iPhone 12 (64GB, Black) [Locked] + Carrier Subscription', 1),
+('Google Pixel 5', 699, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Google Pixel 5 - 5G Android Phone', 1),
+('Samsung Galaxy S20 FE', 599, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'Samsung Galaxy S20 FE 5G Factory Unlocked', 1),
+('OnePlus 8T', 749, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'OnePlus 8T 5G KB2001 Smartphone', 1),
+('Xiaomi Redmi Note 9 Pro', 229, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'Xiaomi Redmi Note 9 Pro 64GB + 6GB RAM', 1),
+('Huawei P40 Pro', 899, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Huawei P40 Pro 5G ELS-NX9 256GB 8GB RAM International Version', 1);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Xiaomi Mi 11', 749, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Xiaomi Mi 11 - Smartphone 256GB, 8GB RAM, Dual Sim', 1),
+('OnePlus 9 Pro', 1069, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'OnePlus 9 Pro Smartphone with Hasselblad Camera for Mobile', 1),
+('Samsung Galaxy Note 20 Ultra', 1299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 25, 'Samsung Galaxy Note 20 Ultra 5G Factory Unlocked', 1),
+('Google Pixel 4a', 349, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 75, 'Google Pixel 4a - New Unlocked Android Smartphone', 1),
+('Samsung Galaxy S21', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'Samsung Galaxy S21 5G | Factory Unlocked Android Cell Phone', 1),
+('Apple iPhone 12 Mini', 699, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 55, 'Apple iPhone 12 Mini (64GB, Blue) [Locked] + Carrier Subscription', 1),
+('Huawei Mate 40 Pro', 1200, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 20, 'Huawei Mate 40 Pro 5G NOH-NX9 256GB 8GB RAM International Version - Mystic Silver', 1),
+('Sony Xperia 1 II', 1198, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 15, 'Sony Xperia 1 II Unlocked Smartphone', 1),
+('Lenovo Tab P11', 259.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Lenovo Tab P11 - 11" (2000x1200) Display Tablet', 2),
+('Samsung Galaxy Tab S7', 649.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Samsung Galaxy Tab S7 Wi-Fi, Mystic Black - 128 GB', 2),
+('Apple iPad Air (4th Generation)', 599, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Apple iPad Air (4th Generation) Wi-Fi 64GB - Sky Blue', 2),
+('Microsoft Surface Pro 7', 749.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Microsoft Surface Pro 7 – 12.3" Touch-Screen - Intel Core i5 - 8GB Memory - 128GB SSD', 2),
+('Amazon Fire HD 10 Tablet', 149.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Amazon Fire HD 10 Tablet – 10.1" 1080p full HD display, 32 GB, Black', 2),
+('ASUS ZenPad 3S 10', 299.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 25, 'ASUS ZenPad 3S 10 9.7" (2048x1536), 4GB RAM, 64GB eMMC, 5MP Front / 8MP Rear Camera', 2),
+('Huawei MediaPad M5', 359.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Huawei MediaPad M5 Tablet with 8.4" 2K Display, Octa Core, Quick Charge, Dual Harman Kardon-Tuned Speakers', 2),
+('JBL Charge 4', 179.95, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'JBL Charge 4 - Waterproof Portable Bluetooth Speaker - Black', 7),
+('Bose SoundLink Revolve', 199, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Bose SoundLink Revolve, Portable Bluetooth Speaker (with 360 Wireless Surround Sound), Triple Black', 7);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Ultimate Ears BOOM 3', 129.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Ultimate Ears BOOM 3 Portable Waterproof Bluetooth Speaker - Night Black', 7),
+('Marshall Kilburn II', 299.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Marshall Kilburn II Portable Bluetooth Speaker - Black', 7),
+('Anker Soundcore 2', 39.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'Anker Soundcore 2 Portable Bluetooth Speaker with 12W Stereo Sound', 7),
+('Beats Pill+ Portable Speaker', 179.95, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 95, 'Beats Pill+ Portable Wireless Speaker - Stereo Bluetooth, 12 Hours Of Listening Time', 7),
+('Bose Home Speaker 500', 349, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Bose Home Speaker 500 with Alexa Voice Control Built-in, Black', 8),
+('Sonos Move', 399, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Sonos Move - Battery-powered Smart Speaker, Wi-Fi and Bluetooth with Alexa built-in', 8),
+('Google Home Max', 299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Google Home Max - Smart Speaker with Google Assistant', 8),
+('Apple HomePod Mini', 99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 150, 'Apple HomePod Mini', 8),
+('Amazon Echo (4th Gen)', 99.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'Amazon Echo (4th Gen) | With premium sound, smart home hub, and Alexa', 8),
+('JBL Link Portable', 179.95, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'JBL Link Portable Wi-Fi Bluetooth Speaker - 8 Hours of Playtime', 8);
+
+
+('Samsung Galaxy S21', 800, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Samsung Galaxy S21 5G Smartphone', 1),
+('Apple iPhone 13', 900, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'Apple iPhone 13 with A15 Bionic chip', 1),
+('Google Pixel 6', 600, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Google Pixel 6 - 5G Android Phone', 1),
+('OnePlus 9', 700, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 55, 'OnePlus 9 5G with Hasselblad Camera for Mobile', 1),
+('Xiaomi Mi 11', 750, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Xiaomi Mi 11 - High Performance Smartphone', 1),
+('Sony Xperia 1 III', 1200, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Sony Xperia 1 III - 4K HDR OLED display', 1),
+('Oppo Find X3 Pro', 1150, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 35, 'Oppo Find X3 Pro with Billion Color Display', 1),
+('Huawei P40 Pro', 900, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 25, 'Huawei P40 Pro 5G Smartphone', 1),
+('Motorola Edge Plus', 1000, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Motorola Edge Plus with 108MP Camera', 1),
+('Asus ROG Phone 5', 950, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Asus ROG Phone 5 Ultimate Gaming Phone', 1),
+('Realme GT', 550, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Realme GT 5G Speed Awakening', 1),
+('Nokia 8.3 5G', 650, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'Nokia 8.3 5G - Elevate your photos and videos', 1),
+('ZTE Axon 30 Ultra', 750, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'ZTE Axon 30 Ultra with 64MP Quad Camera', 1),
+('LG Wing', 1050, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'LG Wing Unique Swivel Smartphone', 1),
+('Vivo X60 Pro', 800, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 55, 'Vivo X60 Pro with Gimbal Stabilization', 1);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Apple iPad Pro 11-inch', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Apple iPad Pro 11-inch Wi-Fi, 128GB', 2),
+('Samsung Galaxy Tab S7+', 849, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Samsung Galaxy Tab S7+ Wi-Fi, Mystic Black - 128 GB', 2),
+('Microsoft Surface Pro 7', 749, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Microsoft Surface Pro 7 – 12.3" Touch-Screen - 8GB Memory - 128GB SSD', 2),
+('Lenovo Tab P11 Pro', 499, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Lenovo Tab P11 Pro - 11.5" (2560x1600) Display Tablet', 2),
+('Huawei MatePad Pro', 610, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 45, 'Huawei MatePad Pro Wi-Fi 6+ 128GB', 2),
+('Amazon Fire HD 10', 149, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Amazon Fire HD 10 Tablet – 10.1" 1080p full HD display', 2);
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Google Pixel Slate', 799, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 30, 'Google Pixel Slate 12.3-Inch 2 in 1 Tablet Intel Core m3, 8GB RAM, 64GB', 2),
+('Asus ZenPad 3S 10', 299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 75, 'Asus ZenPad 3S 10 9.7" 4GB RAM, 64GB Storage', 2),
+('Xiaomi Pad 5', 399, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'Xiaomi Pad 5 - 11" WQHD+ Display, 6GB RAM, 128GB Storage', 2),
+('Sony Xperia Z4 Tablet', 599, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Sony Xperia Z4 Tablet 10.1 inch 2K Display, Snapdragon 810, 32GB', 2),
+('Acer Iconia One 10', 150, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Acer Iconia One 10 B3-A40FHD 10.1inch Full HD, MediaTek MT8167, 2GB RAM, 32GB Storage', 2),
+('Lenovo Yoga Tab 11', 320, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 65, 'Lenovo Yoga Tab 11, 11" 2K Display, MediaTek Helio G90T Octa-Core Processor', 2),
+('Samsung Galaxy Tab A7', 229, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'Samsung Galaxy Tab A7 10.4 Wi-Fi 32GB Silver (SM-T500NZSAXAR)', 2),
+('Apple iPad mini', 399, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Apple iPad mini (Latest Model) with Wi-Fi - 64GB', 2),
+('Huawei MediaPad M5 Lite', 299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Huawei MediaPad M5 Lite - 10.1 inch, 3GB RAM, 32GB Storage, Quad Speakers', 2),
+('Amazon Fire HD 8', 89.99, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'Amazon Fire HD 8 tablet, 8" HD display, 32 GB', 2);
+
+
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Dell XPS 13', 1200, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Dell XPS 13 9310, 13.4 inch FHD+ Touch Laptop', 3),
+('Apple MacBook Air', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 150, 'Apple MacBook Air with Apple M1 Chip', 3),
+('HP Spectre x360', 1150, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'HP Spectre x360 2-in-1 13.3" FHD Touch-Screen Laptop', 3),
+('Lenovo ThinkPad X1 Carbon', 1400, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Lenovo ThinkPad X1 Carbon Gen 9, Intel i7-1165G7', 3),
+('Asus ZenBook Duo', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 50, 'Asus ZenBook Duo UX481 14" FHD NanoEdge Bezel Touch Display', 3),
+('Microsoft Surface Laptop 4', 1299, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Microsoft Surface Laptop 4 15" Touch-Screen – AMD Ryzen 7 Surface Edition', 3),
+('Razer Blade 15', 1800, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 40, 'Razer Blade 15 Base Gaming Laptop 2020: Intel Core i7-10750H 6 Core', 3);
+
+
+INSERT INTO products (Name, Price, ImagePath, Quantity, Description, CategoryID) VALUES
+('Acer Swift 3', 679, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'Acer Swift 3 Thin & Light Laptop, 14" Full HD IPS', 3),
+('LG Gram 17', 1349, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 55, 'LG Gram 17Z90P Laptop 17" IPS Ultra-Lightweight', 3),
+('Asus ROG Zephyrus G14', 1449, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 65, 'ASUS ROG Zephyrus G14 14" VR Ready 120Hz FHD Gaming Laptop', 3),
+('Dell Inspiron 15', 549, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 100, 'Dell Inspiron 15 3000 Laptop 15.6" HD', 3),
+('HP Pavilion 15', 629, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 90, 'HP Pavilion 15 Laptop, 11th Gen Intel Core i7-1165G7 Processor', 3),
+('Lenovo Yoga 9i', 1099, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 75, 'Lenovo Yoga 9i 14 2-in-1 14" Touch-Screen Laptop', 3),
+('Microsoft Surface Book 3', 1599, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Microsoft Surface Book 3 - 13.5" Touch-Screen - 10th Gen Intel Core i7', 3),
+('Apple MacBook Pro', 2399, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 70, 'Apple MacBook Pro with Apple M1 Pro chip', 3),
+('Asus VivoBook 15', 459, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 120, 'ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD Display', 3),
+('Acer Predator Helios 300', 1199, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Acer Predator Helios 300 Gaming Laptop', 3),
+('MSI GF65 Thin', 999, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 85, 'MSI GF65 Thin 9SEXR-250 15.6" 120Hz Gaming Laptop', 3),
+('Samsung Galaxy Book Flex', 1349, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 60, 'Samsung Galaxy Book Flex α 13.3" QLED Touch-Screen Laptop', 3),
+('Lenovo IdeaPad 3', 429, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 110, 'Lenovo IdeaPad 3 14" Laptop, 14.0" FHD 1920 x 1080 Display', 3),
+('HP Envy x360', 849, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 95, 'HP Envy x360 Convertible 15-inch Laptop', 3),
+('Dell G5 15', 1020, 'C:\\Users\\KarimPc\\Desktop\\Foundation\\Cours-18-ConnectDataBase\\PRODECTS_APP\\Photo\\Ph.jpg', 80, 'Dell G5 15 Gaming Laptop', 3);
+
+

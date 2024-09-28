@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\bin\Debug\Responding to Changes in ObservableCollection.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\bin\Debug\Responding to Changes in ObservableCollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\bin\Debug\Responding to Changes in ObservableCollection.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\obj\Debug\Responding to Changes in ObservableCollection.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\obj\Debug\Responding to Changes in ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\obj\Debug\Responding to Changes in ObservableCollection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Responding to Changes in ObservableCollection\obj\Debug\Responding to Changes in ObservableCollection.pdb

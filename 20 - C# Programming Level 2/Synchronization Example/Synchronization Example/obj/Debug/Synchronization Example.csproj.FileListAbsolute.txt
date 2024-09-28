@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\bin\Debug\Synchronization Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\bin\Debug\Synchronization Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\bin\Debug\Synchronization Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\obj\Debug\Synchronization Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\obj\Debug\Synchronization Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\obj\Debug\Synchronization Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Synchronization Example\Synchronization Example\obj\Debug\Synchronization Example.pdb

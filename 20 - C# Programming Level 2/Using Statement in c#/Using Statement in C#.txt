@@ -1,0 +1,4 @@
+1- Import Library --> Using System -->Using System.IO
+2-C# using to create an alias
+3-C# using static directive
+4-C# using for Resource Management --> in Cours 19

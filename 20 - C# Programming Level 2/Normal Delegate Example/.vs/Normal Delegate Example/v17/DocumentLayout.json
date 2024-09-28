@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Normal Delegate Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CB9FA7-C784-425E-9F25-F02C77125905}|Normal Delegate Example\\Normal Delegate Example.csproj|c:\\users\\pc0\\desktop\\basics\\cours 20\\normal delegate example\\normal delegate example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CB9FA7-C784-425E-9F25-F02C77125905}|Normal Delegate Example\\Normal Delegate Example.csproj|solutionrelative:normal delegate example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Normal Delegate Example\\Normal Delegate Example\\Program.cs",
+              "RelativeDocumentMoniker": "Normal Delegate Example\\Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Normal Delegate Example\\Normal Delegate Example\\Program.cs",
+              "RelativeToolTip": "Normal Delegate Example\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:55:44.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

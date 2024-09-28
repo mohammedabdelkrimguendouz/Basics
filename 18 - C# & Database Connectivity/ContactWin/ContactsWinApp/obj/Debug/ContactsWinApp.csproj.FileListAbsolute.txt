@@ -1,0 +1,16 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactsWinApp.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactsWinApp.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactsWinApp.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.frmAddEditContact.resources
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\obj\Debug\ContactsWinApp.frmListContacts.resources
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\ContactWin\ContactsWinApp\bin\Debug\ContactBusinessLayer.pdb

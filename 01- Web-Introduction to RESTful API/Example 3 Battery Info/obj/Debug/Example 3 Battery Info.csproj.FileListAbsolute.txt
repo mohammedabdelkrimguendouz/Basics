@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.exe.config
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.pdb
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.pdb

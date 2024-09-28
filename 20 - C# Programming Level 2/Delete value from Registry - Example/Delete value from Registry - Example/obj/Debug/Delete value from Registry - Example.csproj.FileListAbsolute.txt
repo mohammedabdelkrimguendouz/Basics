@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\bin\Debug\Delete value from Registry - Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\bin\Debug\Delete value from Registry - Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\bin\Debug\Delete value from Registry - Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\obj\Debug\Delete value from Registry - Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\obj\Debug\Delete value from Registry - Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\obj\Debug\Delete value from Registry - Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Delete value from Registry - Example\Delete value from Registry - Example\obj\Debug\Delete value from Registry - Example.pdb

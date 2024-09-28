@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\bin\Debug\Using LINQ with Tuples.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\bin\Debug\Using LINQ with Tuples.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\bin\Debug\Using LINQ with Tuples.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\obj\Debug\Using LINQ with Tuples.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\obj\Debug\Using LINQ with Tuples.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\obj\Debug\Using LINQ with Tuples.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with Tuples\obj\Debug\Using LINQ with Tuples.pdb

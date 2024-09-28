@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\bin\Debug\Unboxing.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\bin\Debug\Unboxing.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\bin\Debug\Unboxing.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\obj\Debug\Unboxing.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\obj\Debug\Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\obj\Debug\Unboxing.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Unboxing\obj\Debug\Unboxing.pdb

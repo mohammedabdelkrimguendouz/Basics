@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\bin\Debug\Generic Methods.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\bin\Debug\Generic Methods.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\bin\Debug\Generic Methods.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\obj\Debug\Generic Methods.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\obj\Debug\Generic Methods.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\obj\Debug\Generic Methods.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Generic Methods\Generic Methods\obj\Debug\Generic Methods.pdb

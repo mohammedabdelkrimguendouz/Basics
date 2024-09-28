@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\bin\Debug\ConvertSystemNumber.exe.config
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\bin\Debug\ConvertSystemNumber.exe
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\bin\Debug\ConvertSystemNumber.pdb
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\bin\Debug\Guna.UI2.dll
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.Form1.resources
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.exe
+C:\Users\KarimPc\Desktop\ConvertSystemNumber\obj\Debug\ConvertSystemNumber.pdb

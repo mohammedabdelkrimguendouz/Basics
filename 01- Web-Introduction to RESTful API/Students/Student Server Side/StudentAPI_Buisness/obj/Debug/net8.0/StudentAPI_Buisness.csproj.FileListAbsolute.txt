@@ -1,0 +1,31 @@
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.deps.json
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.dll
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.pdb
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.AssemblyInfoInputs.cache
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.AssemblyInfo.cs
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.dll
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\refint\StudentAPI_Buisness.dll
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.pdb
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\ref\StudentAPI_Buisness.dll
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\Basics\01-web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentA.E0694504.Up2Date
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.deps.json
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.dll
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_Buisness.pdb
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_DataAccess.dll
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\bin\Debug\net8.0\StudentAPI_DataAccess.pdb
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.AssemblyInfo.cs
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentA.E0694504.Up2Date
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.dll
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\refint\StudentAPI_Buisness.dll
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.pdb
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\ref\StudentAPI_Buisness.dll
+C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_Buisness\obj\Debug\net8.0\StudentAPI_Buisness.csproj.ResolveComReference.cache

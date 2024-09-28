@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\bin\Debug\DataAdapter_Exemple.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\bin\Debug\DataAdapter_Exemple.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\bin\Debug\DataAdapter_Exemple.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\obj\Debug\DataAdapter_Exemple.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\obj\Debug\DataAdapter_Exemple.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\obj\Debug\DataAdapter_Exemple.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataAdapter_Exemple\obj\Debug\DataAdapter_Exemple.pdb

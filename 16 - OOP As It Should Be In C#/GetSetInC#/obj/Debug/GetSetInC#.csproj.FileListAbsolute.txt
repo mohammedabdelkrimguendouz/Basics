@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\bin\Debug\GetSetInC#.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\bin\Debug\GetSetInC#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\bin\Debug\GetSetInC#.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\obj\Debug\GetSetInC#.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\obj\Debug\GetSetInC#.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\obj\Debug\GetSetInC#.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\GetSetInC#\obj\Debug\GetSetInC#.pdb

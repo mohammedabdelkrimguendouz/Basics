@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\bin\Debug\Working with a List of Custom Objects.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\bin\Debug\Working with a List of Custom Objects.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\bin\Debug\Working with a List of Custom Objects.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.pdb

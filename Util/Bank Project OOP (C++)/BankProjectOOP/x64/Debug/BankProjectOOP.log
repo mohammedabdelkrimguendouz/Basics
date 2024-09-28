@@ -1,0 +1,57 @@
+﻿  BankProjectOOP.cpp
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(190,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(320,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsString.h(368,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsUtil.h(47,7): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsUser.h(130,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProjectOOP.cpp')
+  C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsUser.h(26,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(169,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProjectOOP.cpp')
+  C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(141,9):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(23,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(150,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(151,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(152,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(326,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(337,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsTotalBalancesSecreen.h(48,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankProjectOOP.cpp')
+  
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsBankClient.h(294): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsUser.h(266): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\BankProjectOOP\clsFindCurrencyScreen.h(52): warning C4715: 'clsFindCurrencyScreen::_PerformTypeFindCurrency': not all control paths return a value
+  BankProjectOOP.vcxproj -> C:\Users\KarimPc\Desktop\Foundation\Project\BankProjectOOP\x64\Debug\BankProjectOOP.exe

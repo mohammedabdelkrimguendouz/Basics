@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|c:\\users\\pc0\\desktop\\basics\\c#1\\myfirstewinformsproject\\frmcolordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|solutionrelative:frmcolordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmcolordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|solutionrelative:frmcolordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B63532E2-A283-40A7-BE92-3B9EAE46A004}|MyFirstEWinFormsProject.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmColorDialog.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmColorDialog.cs",
+              "RelativeDocumentMoniker": "frmColorDialog.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmColorDialog.cs",
+              "RelativeToolTip": "frmColorDialog.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:39:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmColorDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmColorDialog.cs",
+              "RelativeDocumentMoniker": "frmColorDialog.cs",
+              "ToolTip": "C:\\Users\\KarimPc\\Desktop\\MyFirstEWinFormsProject\\frmColorDialog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\KarimPc\\Desktop\\MyFirstEWinFormsProject\\frmColorDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-02T17:39:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\C#1\\MyFirstEWinFormsProject\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\KarimPc\\Desktop\\MyFirstEWinFormsProject\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\KarimPc\\Desktop\\MyFirstEWinFormsProject\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-02T17:39:21.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

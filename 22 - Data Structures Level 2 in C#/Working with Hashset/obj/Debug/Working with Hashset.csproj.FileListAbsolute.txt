@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\bin\Debug\Working with Hashset.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\bin\Debug\Working with Hashset.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\bin\Debug\Working with Hashset.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\obj\Debug\Working with Hashset.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\obj\Debug\Working with Hashset.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\obj\Debug\Working with Hashset.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with Hashset\obj\Debug\Working with Hashset.pdb

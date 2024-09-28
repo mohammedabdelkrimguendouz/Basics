@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\bin\Debug\PartialMethode.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\bin\Debug\PartialMethode.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\bin\Debug\PartialMethode.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\obj\Debug\PartialMethode.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\obj\Debug\PartialMethode.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\obj\Debug\PartialMethode.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\PartialMethode\obj\Debug\PartialMethode.pdb

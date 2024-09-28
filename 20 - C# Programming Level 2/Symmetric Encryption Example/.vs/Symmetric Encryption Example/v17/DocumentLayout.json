@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Symmetric Encryption Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E689834-6FF8-4F0C-8992-F0D80545B204}|Symmetric Encryption Example\\Symmetric Encryption Example.csproj|c:\\users\\pc0\\desktop\\basics\\cours 20\\symmetric encryption example\\symmetric encryption example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E689834-6FF8-4F0C-8992-F0D80545B204}|Symmetric Encryption Example\\Symmetric Encryption Example.csproj|solutionrelative:symmetric encryption example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Symmetric Encryption Example\\Symmetric Encryption Example\\Program.cs",
+              "RelativeDocumentMoniker": "Symmetric Encryption Example\\Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Symmetric Encryption Example\\Symmetric Encryption Example\\Program.cs",
+              "RelativeToolTip": "Symmetric Encryption Example\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:46:56.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

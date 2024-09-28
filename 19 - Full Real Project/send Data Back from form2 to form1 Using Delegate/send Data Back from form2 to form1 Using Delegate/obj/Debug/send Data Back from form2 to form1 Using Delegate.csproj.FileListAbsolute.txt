@@ -1,0 +1,11 @@
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\bin\Debug\send Data Back from form2 to form1 Using Delegate.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\bin\Debug\send Data Back from form2 to form1 Using Delegate.exe
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\bin\Debug\send Data Back from form2 to form1 Using Delegate.pdb
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send Data Back from form2 to form1 Using Delegate.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send_Data_Back_from_form2_to_form1_Using_Delegate.Form1.resources
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send_Data_Back_from_form2_to_form1_Using_Delegate.Form2.resources
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send_Data_Back_from_form2_to_form1_Using_Delegate.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send Data Back from form2 to form1 Using Delegate.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send Data Back from form2 to form1 Using Delegate.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send Data Back from form2 to form1 Using Delegate.exe
+C:\Users\PC0\Desktop\basics\Cours19\send Data Back from form2 to form1 Using Delegate\send Data Back from form2 to form1 Using Delegate\obj\Debug\send Data Back from form2 to form1 Using Delegate.pdb

@@ -1,0 +1,6 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\bin\Debug\clsUtil.dll
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\bin\Debug\clsUtil.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\obj\Debug\clsUtil.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\obj\Debug\clsUtil.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\obj\Debug\clsUtil.dll
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\clsUtil\obj\Debug\clsUtil.pdb

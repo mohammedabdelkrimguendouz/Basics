@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\bin\Debug\StaticMembers.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\obj\Debug\StaticMembers.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\StaticMembers\obj\Debug\StaticMembers.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\bin\Debug\Tuples.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\bin\Debug\Tuples.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\obj\Debug\Tuples.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Tuples\obj\Debug\Tuples.pdb

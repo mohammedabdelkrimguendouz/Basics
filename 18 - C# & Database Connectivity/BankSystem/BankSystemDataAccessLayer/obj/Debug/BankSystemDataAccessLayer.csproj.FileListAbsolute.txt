@@ -1,0 +1,6 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.pdb

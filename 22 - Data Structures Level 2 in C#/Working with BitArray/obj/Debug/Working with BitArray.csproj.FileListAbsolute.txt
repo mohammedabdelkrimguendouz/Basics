@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\bin\Debug\Working with BitArray.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\bin\Debug\Working with BitArray.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\bin\Debug\Working with BitArray.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\obj\Debug\Working with BitArray.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\obj\Debug\Working with BitArray.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\obj\Debug\Working with BitArray.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Working with BitArray\obj\Debug\Working with BitArray.pdb

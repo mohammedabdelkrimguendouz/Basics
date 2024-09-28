@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\bin\Debug\Jagged arrays.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\bin\Debug\Jagged arrays.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\bin\Debug\Jagged arrays.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\obj\Debug\Jagged arrays.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\obj\Debug\Jagged arrays.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\obj\Debug\Jagged arrays.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Jagged arrays\obj\Debug\Jagged arrays.pdb

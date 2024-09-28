@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\bin\Debug\Parameter-less-constructure.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\bin\Debug\Parameter-less-constructure.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\bin\Debug\Parameter-less-constructure.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\obj\Debug\Parameter-less-constructure.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\obj\Debug\Parameter-less-constructure.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\obj\Debug\Parameter-less-constructure.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Parameter-less-constructure\obj\Debug\Parameter-less-constructure.pdb

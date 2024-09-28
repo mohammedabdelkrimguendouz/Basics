@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\bin\Debug\Filtering ArrayList with Linq.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\bin\Debug\Filtering ArrayList with Linq.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\bin\Debug\Filtering ArrayList with Linq.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\obj\Debug\Filtering ArrayList with Linq.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\obj\Debug\Filtering ArrayList with Linq.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\obj\Debug\Filtering ArrayList with Linq.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Filtering ArrayList with Linq\obj\Debug\Filtering ArrayList with Linq.pdb

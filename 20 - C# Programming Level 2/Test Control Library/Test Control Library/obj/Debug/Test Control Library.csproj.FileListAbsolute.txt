@@ -1,0 +1,13 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\bin\Debug\Test Control Library.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\bin\Debug\Test Control Library.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\bin\Debug\Test Control Library.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Control Library.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test_Control_Library.Form1.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test_Control_Library.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Control Library.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Control Library.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Control Library.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Control Library.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\bin\Debug\My First Control Library.dll
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\bin\Debug\My First Control Library.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\Test Control Library\obj\Debug\Test Con.26176937.Up2Date

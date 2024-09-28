@@ -1,0 +1,11 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.ctrlCalculatore.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Form1.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Simple Event With Parameters Using Arguments\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.pdb

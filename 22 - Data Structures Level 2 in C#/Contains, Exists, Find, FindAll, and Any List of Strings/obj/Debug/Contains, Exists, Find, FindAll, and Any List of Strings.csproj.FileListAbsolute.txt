@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\bin\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\bin\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\bin\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\obj\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\obj\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\obj\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Contains, Exists, Find, FindAll, and Any List of Strings\obj\Debug\Contains, Exists, Find, FindAll, and Any List of Strings.pdb

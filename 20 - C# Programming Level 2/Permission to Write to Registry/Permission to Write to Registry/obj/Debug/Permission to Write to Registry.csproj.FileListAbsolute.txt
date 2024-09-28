@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Permission to Write to Registry\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.pdb

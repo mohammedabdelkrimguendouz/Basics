@@ -1,0 +1,11 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\bin\Debug\Pool Club Project Idea(User Control).exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\bin\Debug\Pool Club Project Idea(User Control).exe
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\bin\Debug\Pool Club Project Idea(User Control).pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool Club Project Idea(User Control).csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool_Club_Project_Idea_User_Control_.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool Club Project Idea(User Control).csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool Club Project Idea(User Control).csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool Club Project Idea(User Control).exe
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool Club Project Idea(User Control).pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool_Club_Project_Idea_User_Control_.ctrlPoolTable.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Pool Club Project Idea(User Control)\Pool Club Project Idea(User Control)\obj\Debug\Pool_Club_Project_Idea_User_Control_.Form1.resources

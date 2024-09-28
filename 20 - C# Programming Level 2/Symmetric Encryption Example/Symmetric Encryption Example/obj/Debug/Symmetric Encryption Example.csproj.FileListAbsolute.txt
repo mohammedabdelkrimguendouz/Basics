@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\bin\Debug\Symmetric Encryption Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\bin\Debug\Symmetric Encryption Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\bin\Debug\Symmetric Encryption Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\obj\Debug\Symmetric Encryption Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\obj\Debug\Symmetric Encryption Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\obj\Debug\Symmetric Encryption Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Symmetric Encryption Example\Symmetric Encryption Example\obj\Debug\Symmetric Encryption Example.pdb

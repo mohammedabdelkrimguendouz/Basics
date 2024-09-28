@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.pdb

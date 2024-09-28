@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\obj\Debug\Task.Run.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\obj\Debug\Task.Run.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\bin\Debug\Task.Run.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\bin\Debug\Task.Run.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\bin\Debug\Task.Run.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\obj\Debug\Task.Run.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Task.Run\Task.Run\obj\Debug\Task.Run.pdb

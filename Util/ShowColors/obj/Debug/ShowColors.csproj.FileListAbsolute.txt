@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\ShowColors\bin\Debug\ShowColors.exe.config
+C:\Users\KarimPc\Desktop\ShowColors\bin\Debug\ShowColors.exe
+C:\Users\KarimPc\Desktop\ShowColors\bin\Debug\ShowColors.pdb
+C:\Users\KarimPc\Desktop\ShowColors\bin\Debug\Guna.UI2.dll
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.Form1.resources
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.exe
+C:\Users\KarimPc\Desktop\ShowColors\obj\Debug\ShowColors.pdb

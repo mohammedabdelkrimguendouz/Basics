@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\cours19\\project source code abu-hadhoud\\dvld\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\cours19\\project source code abu-hadhoud\\dvld\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\cours19\\project source code abu-hadhoud\\dvld\\licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\cours19\\project source code abu-hadhoud\\dvld\\licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\international licenses\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\cours19\\project source code abu-hadhoud\\dvld\\licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNewInternationalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:14:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNewInternationalLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\International License\\frmNewInternationalLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\International License\\frmNewInternationalLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:13:58.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrlDriverInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:03:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:02:24.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ctrlDriverLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeDocumentMoniker": "Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeToolTip": "Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADwv4oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:35:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlDriverLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeDocumentMoniker": "Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "RelativeToolTip": "Licenses\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:35:11.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmShowPersonLicenseHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\frmShowPersonLicenseHistory.cs",
+              "RelativeDocumentMoniker": "Licenses\\frmShowPersonLicenseHistory.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Licenses\\frmShowPersonLicenseHistory.cs [Design]",
+              "RelativeToolTip": "Licenses\\frmShowPersonLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:34:35.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListLocalDrivingLicesnseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA6wE8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:49:13.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours19\\Project Source Code Abu-Hadhoud\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:47:16.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

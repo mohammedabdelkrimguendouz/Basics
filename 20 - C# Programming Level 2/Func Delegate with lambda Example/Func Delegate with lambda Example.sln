@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func Delegate with lambda Example", "Func Delegate with lambda Example\Func Delegate with lambda Example.csproj", "{0746770C-A7A8-41D2-9DA4-B5BEE93CBB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0746770C-A7A8-41D2-9DA4-B5BEE93CBB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0746770C-A7A8-41D2-9DA4-B5BEE93CBB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0746770C-A7A8-41D2-9DA4-B5BEE93CBB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0746770C-A7A8-41D2-9DA4-B5BEE93CBB09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3228803E-D782-48A6-AF6B-70FE036BC1D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\bin\Debug\Implementing IEnumerable in a Custom Collection.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\bin\Debug\Implementing IEnumerable in a Custom Collection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\bin\Debug\Implementing IEnumerable in a Custom Collection.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\obj\Debug\Implementing IEnumerable in a Custom Collection.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\obj\Debug\Implementing IEnumerable in a Custom Collection.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\obj\Debug\Implementing IEnumerable in a Custom Collection.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IEnumerable in a Custom Collection\obj\Debug\Implementing IEnumerable in a Custom Collection.pdb

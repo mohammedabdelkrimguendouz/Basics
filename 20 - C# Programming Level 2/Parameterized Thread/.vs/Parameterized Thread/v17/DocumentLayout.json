@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parameterized Thread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2F528C-E856-4605-8ADD-A856C21327F2}|Parameterized Thread\\Parameterized Thread.csproj|c:\\users\\pc0\\desktop\\basics\\cours 20\\parameterized thread\\parameterized thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2F528C-E856-4605-8ADD-A856C21327F2}|Parameterized Thread\\Parameterized Thread.csproj|solutionrelative:parameterized thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parameterized Thread\\Parameterized Thread\\Program.cs",
+              "RelativeDocumentMoniker": "Parameterized Thread\\Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parameterized Thread\\Parameterized Thread\\Program.cs",
+              "RelativeToolTip": "Parameterized Thread\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:43:03.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

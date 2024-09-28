@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\bin\Debug\Type Class.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\bin\Debug\Type Class.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\bin\Debug\Type Class.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\obj\Debug\Type Class.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\obj\Debug\Type Class.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\obj\Debug\Type Class.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Type Class\Type Class\obj\Debug\Type Class.pdb

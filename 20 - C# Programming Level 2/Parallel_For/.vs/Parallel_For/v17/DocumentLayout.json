@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parallel_For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3FD3EE-ADEB-41F7-9A72-05C4B9E75B3A}|Parallel_For\\Parallel_For.csproj|c:\\users\\pc0\\desktop\\basics\\cours 20\\parallel_for\\parallel_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3FD3EE-ADEB-41F7-9A72-05C4B9E75B3A}|Parallel_For\\Parallel_For.csproj|solutionrelative:parallel_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parallel_For\\Parallel_For\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel_For\\Program.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\Cours 20\\Parallel_For\\Parallel_For\\Program.cs",
+              "RelativeToolTip": "Parallel_For\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:15:53.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

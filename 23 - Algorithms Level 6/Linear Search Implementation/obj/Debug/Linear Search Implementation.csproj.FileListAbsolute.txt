@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\bin\Debug\Linear Search Implementation.exe.config
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\bin\Debug\Linear Search Implementation.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\bin\Debug\Linear Search Implementation.pdb
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\obj\Debug\Linear Search Implementation.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\obj\Debug\Linear Search Implementation.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\obj\Debug\Linear Search Implementation.exe
+C:\Users\PC0\Desktop\basics\23 - Algorithms Level 6\Linear Search Implementation\obj\Debug\Linear Search Implementation.pdb

@@ -1,0 +1,10 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\bin\Debug\TestMyFirstClassLibraryProject.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\bin\Debug\TestMyFirstClassLibraryProject.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\bin\Debug\TestMyFirstClassLibraryProject.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\obj\Debug\TestMyFirstClassLibraryProject.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\obj\Debug\TestMyFirstClassLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\obj\Debug\TestMyFirstClassLibraryProject.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\obj\Debug\TestMyFirstClassLibraryProject.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\TestMyFirstClassLibraryProject\obj\Debug\TestMyFirstClassLibraryProject.csproj.CopyComplete

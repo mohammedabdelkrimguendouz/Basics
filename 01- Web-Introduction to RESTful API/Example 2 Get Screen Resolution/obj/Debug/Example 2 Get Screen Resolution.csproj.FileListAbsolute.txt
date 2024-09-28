@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.exe.config
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.pdb
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.exe
+C:\Users\PC0\Desktop\Basics\01-web-Introduction to RESTful API\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.pdb

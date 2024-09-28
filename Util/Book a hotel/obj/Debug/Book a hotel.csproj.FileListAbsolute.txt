@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\Book a hotel\bin\Debug\Book a hotel.exe.config
+C:\Users\KarimPc\Desktop\Book a hotel\bin\Debug\Book a hotel.exe
+C:\Users\KarimPc\Desktop\Book a hotel\bin\Debug\Book a hotel.pdb
+C:\Users\KarimPc\Desktop\Book a hotel\bin\Debug\Guna.UI2.dll
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book_a_hotel.Properties.Resources.resources
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.csproj.GenerateResource.cache
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.exe
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book a hotel.pdb
+C:\Users\KarimPc\Desktop\Book a hotel\obj\Debug\Book_a_hotel.Form1.resources

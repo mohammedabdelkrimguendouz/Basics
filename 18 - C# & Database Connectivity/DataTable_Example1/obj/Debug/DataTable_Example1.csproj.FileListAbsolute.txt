@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\bin\Debug\DataTable_Example1.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\bin\Debug\DataTable_Example1.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\bin\Debug\DataTable_Example1.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\obj\Debug\DataTable_Example1.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\obj\Debug\DataTable_Example1.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\obj\Debug\DataTable_Example1.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\DataTable_Example1\obj\Debug\DataTable_Example1.pdb

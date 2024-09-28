@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\bin\Debug\Cond Att Trace Example.rar.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\bin\Debug\Cond Att Trace Example.rar.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\bin\Debug\Cond Att Trace Example.rar.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\obj\Debug\Cond Att Trace Example.rar.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\obj\Debug\Cond Att Trace Example.rar.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\obj\Debug\Cond Att Trace Example.rar.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Cond Att Trace Example.rar\Cond Att Trace Example.rar\obj\Debug\Cond Att Trace Example.rar.pdb

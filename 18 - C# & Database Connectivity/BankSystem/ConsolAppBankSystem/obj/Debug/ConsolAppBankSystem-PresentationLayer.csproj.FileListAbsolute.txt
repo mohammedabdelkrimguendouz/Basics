@@ -1,0 +1,12 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\ConsolAppBankSystem.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\ConsolAppBankSystem.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\ConsolAppBankSystem.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\BankSystemBusinessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\BankSystemBusinessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\obj\Debug\ConsolAppBankSystem-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\obj\Debug\ConsolAppBankSystem-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\obj\Debug\ConsolAppBankSystem-PresentationLayer.csproj.CopyComplete
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\obj\Debug\ConsolAppBankSystem.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\BankSystem\ConsolAppBankSystem\obj\Debug\ConsolAppBankSystem.pdb

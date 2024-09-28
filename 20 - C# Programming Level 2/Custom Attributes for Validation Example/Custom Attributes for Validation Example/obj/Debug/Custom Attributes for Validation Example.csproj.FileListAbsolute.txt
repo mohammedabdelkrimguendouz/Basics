@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\bin\Debug\Custom Attributes for Validation Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\bin\Debug\Custom Attributes for Validation Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\bin\Debug\Custom Attributes for Validation Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\obj\Debug\Custom Attributes for Validation Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\obj\Debug\Custom Attributes for Validation Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\obj\Debug\Custom Attributes for Validation Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Custom Attributes for Validation Example\Custom Attributes for Validation Example\obj\Debug\Custom Attributes for Validation Example.pdb

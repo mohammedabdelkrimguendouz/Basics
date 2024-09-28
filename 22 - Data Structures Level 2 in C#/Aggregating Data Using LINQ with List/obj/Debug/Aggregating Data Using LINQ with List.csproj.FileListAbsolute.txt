@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\bin\Debug\Aggregating Data Using LINQ with List.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\bin\Debug\Aggregating Data Using LINQ with List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\bin\Debug\Aggregating Data Using LINQ with List.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\obj\Debug\Aggregating Data Using LINQ with List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\obj\Debug\Aggregating Data Using LINQ with List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\obj\Debug\Aggregating Data Using LINQ with List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Aggregating Data Using LINQ with List\obj\Debug\Aggregating Data Using LINQ with List.pdb

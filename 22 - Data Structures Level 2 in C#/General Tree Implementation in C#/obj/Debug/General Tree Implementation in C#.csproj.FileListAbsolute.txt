@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\bin\Debug\General Tree Implementation in C#.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\bin\Debug\General Tree Implementation in C#.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\bin\Debug\General Tree Implementation in C#.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\obj\Debug\General Tree Implementation in C#.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\obj\Debug\General Tree Implementation in C#.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\obj\Debug\General Tree Implementation in C#.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\General Tree Implementation in C#\obj\Debug\General Tree Implementation in C#.pdb

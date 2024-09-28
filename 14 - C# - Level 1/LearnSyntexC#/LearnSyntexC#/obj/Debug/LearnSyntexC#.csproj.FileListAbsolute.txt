@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\bin\Debug\LearnSyntexC#.exe.config
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\bin\Debug\LearnSyntexC#.exe
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\bin\Debug\LearnSyntexC#.pdb
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\obj\Debug\LearnSyntexC#.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\obj\Debug\LearnSyntexC#.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\obj\Debug\LearnSyntexC#.exe
+C:\Users\KarimPc\Desktop\LearnSyntexC#\LearnSyntexC#\obj\Debug\LearnSyntexC#.pdb

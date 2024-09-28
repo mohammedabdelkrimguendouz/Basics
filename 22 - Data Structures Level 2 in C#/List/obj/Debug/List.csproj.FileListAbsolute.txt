@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\bin\Debug\List.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\bin\Debug\List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\bin\Debug\List.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\obj\Debug\List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\List\obj\Debug\List.pdb

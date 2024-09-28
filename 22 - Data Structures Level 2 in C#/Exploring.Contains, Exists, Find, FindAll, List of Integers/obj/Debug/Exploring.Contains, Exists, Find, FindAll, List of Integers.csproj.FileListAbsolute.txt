@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\bin\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\bin\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\bin\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\obj\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\obj\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\obj\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Exploring.Contains, Exists, Find, FindAll, List of Integers\obj\Debug\Exploring.Contains, Exists, Find, FindAll, List of Integers.pdb

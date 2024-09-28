@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\bin\Debug\Remove Items from List.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\bin\Debug\Remove Items from List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\bin\Debug\Remove Items from List.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\obj\Debug\Remove Items from List.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\obj\Debug\Remove Items from List.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\obj\Debug\Remove Items from List.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Remove Items from List\obj\Debug\Remove Items from List.pdb

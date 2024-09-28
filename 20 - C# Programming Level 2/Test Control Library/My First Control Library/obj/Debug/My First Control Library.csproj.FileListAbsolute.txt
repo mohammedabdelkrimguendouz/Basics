@@ -1,0 +1,8 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\bin\Debug\My First Control Library.dll
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\bin\Debug\My First Control Library.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My First Control Library.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My_First_Control_Library.UserControl1.resources
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My First Control Library.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My First Control Library.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My First Control Library.dll
+C:\Users\PC0\Desktop\basics\Cours 20\Test Control Library\My First Control Library\obj\Debug\My First Control Library.pdb

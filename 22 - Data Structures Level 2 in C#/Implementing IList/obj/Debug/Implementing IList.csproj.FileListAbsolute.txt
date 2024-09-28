@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\bin\Debug\Implementing IList.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\bin\Debug\Implementing IList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\bin\Debug\Implementing IList.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\obj\Debug\Implementing IList.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\obj\Debug\Implementing IList.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\obj\Debug\Implementing IList.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Implementing IList\obj\Debug\Implementing IList.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\obj\Debug\Using LINQ with HashSet Example 2.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\obj\Debug\Using LINQ with HashSet Example 2.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\bin\Debug\Using LINQ with HashSet Example 2.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\bin\Debug\Using LINQ with HashSet Example 2.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\bin\Debug\Using LINQ with HashSet Example 2.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\obj\Debug\Using LINQ with HashSet Example 2.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Using LINQ with HashSet Example 2\obj\Debug\Using LINQ with HashSet Example 2.pdb

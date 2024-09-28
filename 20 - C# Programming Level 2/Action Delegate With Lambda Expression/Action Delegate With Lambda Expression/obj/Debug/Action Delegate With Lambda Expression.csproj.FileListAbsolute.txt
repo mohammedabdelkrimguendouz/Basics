@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\bin\Debug\Action Delegate With Lambda Expression.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\bin\Debug\Action Delegate With Lambda Expression.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\bin\Debug\Action Delegate With Lambda Expression.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\obj\Debug\Action Delegate With Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\obj\Debug\Action Delegate With Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\obj\Debug\Action Delegate With Lambda Expression.exe
+C:\Users\PC0\Desktop\basics\Cours 20\Action Delegate With Lambda Expression\Action Delegate With Lambda Expression\obj\Debug\Action Delegate With Lambda Expression.pdb

@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\bin\Debug\Interface.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\bin\Debug\Interface.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\bin\Debug\Interface.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\obj\Debug\Interface.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Interface\obj\Debug\Interface.pdb

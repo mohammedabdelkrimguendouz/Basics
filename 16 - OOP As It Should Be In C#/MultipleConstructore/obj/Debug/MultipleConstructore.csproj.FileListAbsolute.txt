@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\bin\Debug\MultipleConstructore.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\bin\Debug\MultipleConstructore.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\bin\Debug\MultipleConstructore.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\obj\Debug\MultipleConstructore.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\obj\Debug\MultipleConstructore.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\obj\Debug\MultipleConstructore.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\MultipleConstructore\obj\Debug\MultipleConstructore.pdb

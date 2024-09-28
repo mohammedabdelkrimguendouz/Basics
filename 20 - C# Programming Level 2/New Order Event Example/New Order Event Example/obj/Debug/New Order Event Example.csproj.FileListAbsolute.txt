@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\bin\Debug\New Order Event Example.exe.config
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\bin\Debug\New Order Event Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\bin\Debug\New Order Event Example.pdb
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\obj\Debug\New Order Event Example.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\obj\Debug\New Order Event Example.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\obj\Debug\New Order Event Example.exe
+C:\Users\PC0\Desktop\basics\Cours 20\New Order Event Example\New Order Event Example\obj\Debug\New Order Event Example.pdb

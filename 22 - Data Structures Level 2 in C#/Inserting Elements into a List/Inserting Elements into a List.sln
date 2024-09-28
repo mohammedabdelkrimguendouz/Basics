@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inserting Elements into a List", "Inserting Elements into a List.csproj", "{2EF24E44-C7C5-4FA7-88C7-D078736D1391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF24E44-C7C5-4FA7-88C7-D078736D1391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF24E44-C7C5-4FA7-88C7-D078736D1391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF24E44-C7C5-4FA7-88C7-D078736D1391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF24E44-C7C5-4FA7-88C7-D078736D1391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41DFFEE-E8C4-4154-9EE4-2E55DBCC2388}
+	EndGlobalSection
+EndGlobal

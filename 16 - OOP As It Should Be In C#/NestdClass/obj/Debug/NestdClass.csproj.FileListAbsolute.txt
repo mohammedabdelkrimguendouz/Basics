@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\bin\Debug\NestdClass.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\bin\Debug\NestdClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\bin\Debug\NestdClass.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\obj\Debug\NestdClass.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\obj\Debug\NestdClass.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\obj\Debug\NestdClass.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\NestdClass\obj\Debug\NestdClass.pdb

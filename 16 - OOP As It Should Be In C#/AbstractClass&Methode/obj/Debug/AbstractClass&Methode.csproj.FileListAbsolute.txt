@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\obj\Debug\AbstractClass&Methode.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\obj\Debug\AbstractClass&Methode.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\bin\Debug\AbstractClass&Methode.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\bin\Debug\AbstractClass&Methode.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\bin\Debug\AbstractClass&Methode.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\obj\Debug\AbstractClass&Methode.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\AbstractClass&Methode\obj\Debug\AbstractClass&Methode.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\bin\Debug\Comparing Sets with HashSet.exe.config
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\bin\Debug\Comparing Sets with HashSet.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\bin\Debug\Comparing Sets with HashSet.pdb
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\obj\Debug\Comparing Sets with HashSet.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\obj\Debug\Comparing Sets with HashSet.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\obj\Debug\Comparing Sets with HashSet.exe
+C:\Users\PC0\Desktop\basics\22 - Data Structures Level 2 in C#\Comparing Sets with HashSet\obj\Debug\Comparing Sets with HashSet.pdb

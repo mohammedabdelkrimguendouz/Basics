@@ -1,0 +1,21 @@
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\bin\Debug\Program.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\bin\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\bin\Debug\Program.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\obj\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Program\obj\Debug\Program.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\bin\Debug\Program.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\bin\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\bin\Debug\Program.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\obj\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Get ALL Contacts\obj\Debug\Program.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\bin\Debug\Program.exe.config
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\bin\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\bin\Debug\Program.pdb
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\obj\Debug\Program.exe
+C:\Users\KarimPc\Desktop\Foundation\Cours-18-ConnectDataBase\Retrive_Data\obj\Debug\Program.pdb

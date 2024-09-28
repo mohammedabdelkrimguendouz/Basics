@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddEvent In User Control", "AddEvent In User Control\AddEvent In User Control.csproj", "{989D8425-A693-4109-A144-BE9E09413F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989D8425-A693-4109-A144-BE9E09413F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989D8425-A693-4109-A144-BE9E09413F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989D8425-A693-4109-A144-BE9E09413F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989D8425-A693-4109-A144-BE9E09413F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094D5854-A31D-4AFD-BD63-186987E11029}
+	EndGlobalSection
+EndGlobal

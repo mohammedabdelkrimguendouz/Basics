@@ -1,0 +1,7 @@
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\bin\Debug\Auto_Implemented.exe.config
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\bin\Debug\Auto_Implemented.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\bin\Debug\Auto_Implemented.pdb
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\obj\Debug\Auto_Implemented.csproj.AssemblyReference.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\obj\Debug\Auto_Implemented.csproj.CoreCompileInputs.cache
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\obj\Debug\Auto_Implemented.exe
+C:\Users\KarimPc\Desktop\Foundation\c#_oop\Auto_Implemented\obj\Debug\Auto_Implemented.pdb
