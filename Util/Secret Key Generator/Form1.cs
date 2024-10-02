@@ -21,6 +21,11 @@ namespace Secret_Key_Generator
             Clipboard.SetText(txtSecretKey.Text.Trim());
         }
 
+        private int _GetLengthByte()
+        {
+            return int.Parse(cbLengthByte.Text.Trim());
+        }
+
         private string _GenerateSecretKey(int length = 64)
         {
             using (var rng = new RNGCryptoServiceProvider())
@@ -33,8 +38,13 @@ namespace Secret_Key_Generator
 
         private void btnGenerate_Click(object sender, EventArgs e)
         {
-            txtSecretKey.Text = _GenerateSecretKey();
+            txtSecretKey.Text = _GenerateSecretKey(_GetLengthByte());
             btnCopy.Enabled = true;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            cbLengthByte.SelectedIndex = cbLengthByte.FindString("64");
         }
     }
 }

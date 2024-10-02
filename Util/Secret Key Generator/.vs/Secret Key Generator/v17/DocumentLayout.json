@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,19 +30,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:38:04.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs",
@@ -50,8 +37,21 @@
               "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs [Conception]",
               "RelativeToolTip": "Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:31:15.691Z",
+              "WhenOpened": "2024-09-28T19:46:15.662Z",
               "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\Util\\Secret Key Generator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:38:04.601Z",
+              "EditorCaption": ""
             }
           ]
         }
