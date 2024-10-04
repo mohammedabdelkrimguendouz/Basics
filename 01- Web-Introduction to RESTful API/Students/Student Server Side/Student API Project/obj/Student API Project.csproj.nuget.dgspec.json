@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj": {}
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj",
         "projectName": "Student API Project",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Student API Project.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj": {
-                "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj"
+              "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj": {
+                "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj",
         "projectName": "StudentAPI_Buisness",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_Buisness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj"
+              "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
         "projectName": "StudentAPI_DataAccess",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

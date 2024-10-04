@@ -1818,11 +1818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
       "projectName": "StudentAPI_DataAccess",
-      "projectPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
+      "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj",
       "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\StudentAPI_DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

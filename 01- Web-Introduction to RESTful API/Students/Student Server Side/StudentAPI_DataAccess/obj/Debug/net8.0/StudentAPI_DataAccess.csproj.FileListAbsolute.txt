@@ -23,3 +23,17 @@ C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_DataAccess\obj\
 C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.pdb
 C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\ref\StudentAPI_DataAccess.dll
 C:\Users\DELL PRO\Videos\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.csproj.ResolveComReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\bin\Debug\net8.0\StudentAPI_DataAccess.deps.json
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\bin\Debug\net8.0\StudentAPI_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\bin\Debug\net8.0\StudentAPI_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.csproj.ResolveComReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.AssemblyInfo.cs
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.sourcelink.json
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\refint\StudentAPI_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\StudentAPI_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\01- Web-Introduction to RESTful API\Students\Student Server Side\StudentAPI_DataAccess\obj\Debug\net8.0\ref\StudentAPI_DataAccess.dll

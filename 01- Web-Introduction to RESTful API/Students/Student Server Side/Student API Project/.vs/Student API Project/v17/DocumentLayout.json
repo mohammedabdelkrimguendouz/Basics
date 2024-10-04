@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69867BD0-85D5-419D-AE2F-5BB8BDA7A7A5}|Student API Project.csproj|c:\\users\\dell pro\\videos\\students\\student server side\\student api project\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69867BD0-85D5-419D-AE2F-5BB8BDA7A7A5}|Student API Project.csproj|c:\\users\\dell pro\\desktop\\karim\\my files (23-09-2024)\\basics\\01- web-introduction to restful api\\students\\student server side\\student api project\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69867BD0-85D5-419D-AE2F-5BB8BDA7A7A5}|Student API Project.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01DC2549-3937-464D-A5F4-AC306E47681A}|..\\StudentAPI_Buisness\\StudentAPI_Buisness.csproj|c:\\users\\dell pro\\videos\\students\\student server side\\studentapi_buisness\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{701063D9-42A1-411D-9AA3-C3FABEA12819}|..\\StudentAPI_DataAccess\\StudentAPI_DataAccess.csproj|c:\\users\\dell pro\\videos\\students\\student server side\\studentapi_dataaccess\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,12 +24,12 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentData.cs",
               "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentData.cs",
-              "RelativeDocumentMoniker": "..\\StudentAPI_DataAccess\\StudentData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentData.cs",
               "ToolTip": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentData.cs",
-              "RelativeToolTip": "..\\StudentAPI_DataAccess\\StudentData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Videos\\Students\\Student Server Side\\StudentAPI_DataAccess\\StudentData.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T20:17:50.29Z",
@@ -37,12 +37,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\Student.cs",
-              "RelativeDocumentMoniker": "..\\StudentAPI_Buisness\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\Student.cs",
               "ToolTip": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\Student.cs",
-              "RelativeToolTip": "..\\StudentAPI_Buisness\\Student.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Videos\\Students\\Student Server Side\\StudentAPI_Buisness\\Student.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T20:19:13.121Z",
@@ -52,15 +52,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Controllers\\StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Controllers\\StudentAPIController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
-              "ToolTip": "C:\\Users\\DELL PRO\\Videos\\Students\\Student Server Side\\Student API Project\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My Files (23-09-2024)\\Basics\\01- Web-Introduction to RESTful API\\Students\\Student Server Side\\Student API Project\\Controllers\\StudentAPIController.cs",
               "RelativeToolTip": "Controllers\\StudentAPIController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwCQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T20:19:23.085Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

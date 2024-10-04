@@ -2,24 +2,14 @@
   {
     "ContainingType": "Student_API_Project.Controllers.StudentsController",
     "Method": "AddStudent",
-    "RelativePath": "api/Students/{formFile}",
+    "RelativePath": "api/Students",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "formFile",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
-        "IsRequired": false
-      },
-      {
         "Name": "NewStudentDTO",
         "Type": "StudentAPI_DataAccess.StudentDTO",
-        "IsRequired": true
-      },
-      {
-        "Name": "formFile",
-        "Type": "",
         "IsRequired": true
       }
     ],
@@ -148,11 +138,6 @@
         "Name": "UpdatedStudentDTO",
         "Type": "StudentAPI_DataAccess.StudentDTO",
         "IsRequired": true
-      },
-      {
-        "Name": "ImageFile",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": [
