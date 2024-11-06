@@ -3,63 +3,65 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Implementing_Graph_Using_Adjacency_Matrix.Graph;
 
-namespace Implementing_Graph_Using_Adjacency_Matrix
+namespace Implementing_Graph_Using_Adjacency_List
 {
     public class Graph
     {
-        public enum enGraphDirectionType { Directed,UnDirected}
+        public enum enGraphDirectionType { Directed, UnDirected }
         private enGraphDirectionType _GraphDirectionType = enGraphDirectionType.UnDirected;
-        private int[,] _AdjacencyMatrix;
-        private Dictionary<string,int> _VertexDictionary;
+        
+        private Dictionary<string, List<Tuple<string,int>>> _AdjacencyList;
         private int _NumberOfVertices;
 
         public Graph(HashSet<string> Vertices, enGraphDirectionType GraphDirectionType)
         {
             _GraphDirectionType = GraphDirectionType;
             _NumberOfVertices = Vertices.Count;
-            _AdjacencyMatrix = new int[_NumberOfVertices, _NumberOfVertices];
 
-            _VertexDictionary = new Dictionary<string, int>();
-            int i=0;
+
+            _AdjacencyList = new Dictionary<string, List<Tuple<string, int>>>();
+
+
             foreach (string Vertex in Vertices)
             {
-                _VertexDictionary.Add(Vertex, i);
-                i++;
+                _AdjacencyList.Add(Vertex,new List<Tuple<string, int>>());
             }
         }
 
-        public void AddEdge(string Source,string Destination,int Weight)
+        public void AddEdge(string Source, string Destination, int Weight)
         {
-            if (!_VertexDictionary.ContainsKey(Source) || !_VertexDictionary.ContainsKey(Destination))
+            if (!_AdjacencyList.ContainsKey(Source) || !_AdjacencyList.ContainsKey(Destination))
                 return;
 
-            int SourceIndex = _VertexDictionary[Source];
-            int DestinationIndex = _VertexDictionary[Destination];
 
-            _AdjacencyMatrix[SourceIndex, DestinationIndex] = Weight;
+            _AdjacencyList[Source].Add(new Tuple<string, int>(Destination, Weight));
 
-            if(_GraphDirectionType==enGraphDirectionType.UnDirected)
+            if (_GraphDirectionType == enGraphDirectionType.UnDirected)
             {
-                _AdjacencyMatrix[DestinationIndex, SourceIndex] = Weight;
+                _AdjacencyList[Destination].Add(new Tuple<string, int>(Source, Weight));
             }
-                
+
 
         }
 
         public int GetInDegree(string Vertex)
         {
             int InDegree = 0;
-            if (_VertexDictionary.ContainsKey(Vertex))
+            if (_AdjacencyList.ContainsKey(Vertex))
             {
-                int VertexIndex = _VertexDictionary[Vertex];
+               foreach(var Source in _AdjacencyList)
+               {
+                    Source.Value.ForEach(edge =>
+                    {
+                        if (edge.Item1 == Vertex)
+                        {
+                            InDegree++;
+                        }
+                    });
 
-                for (int i=0;i<_NumberOfVertices;i++)
-                {
-                    if (_AdjacencyMatrix[i, VertexIndex] > 0)
-                        InDegree++;
                 }
+
             }
 
 
@@ -69,15 +71,9 @@ namespace Implementing_Graph_Using_Adjacency_Matrix
         public int GetOutDegree(string Vertex)
         {
             int OutDegree = 0;
-            if (_VertexDictionary.ContainsKey(Vertex))
+            if (_AdjacencyList.ContainsKey(Vertex))
             {
-                int VertexIndex = _VertexDictionary[Vertex];
-
-                for (int i = 0; i < _NumberOfVertices; i++)
-                {
-                    if (_AdjacencyMatrix[VertexIndex, i] > 0)
-                        OutDegree++;
-                }
+                OutDegree = _AdjacencyList[Vertex].Count;
             }
 
 
@@ -86,36 +82,27 @@ namespace Implementing_Graph_Using_Adjacency_Matrix
 
         public void RemoveEdge(string Source, string Destination)
         {
-            if (!_VertexDictionary.ContainsKey(Source) || !_VertexDictionary.ContainsKey(Destination))
+            if (!_AdjacencyList.ContainsKey(Source) || !_AdjacencyList.ContainsKey(Destination))
                 return;
 
-            int SourceIndex = _VertexDictionary[Source];
-            int DestinationIndex = _VertexDictionary[Destination];
+            _AdjacencyList[Source].RemoveAll(edge => edge.Item1 == Destination);
 
-            _AdjacencyMatrix[SourceIndex, DestinationIndex] = 0;
 
             if (_GraphDirectionType == enGraphDirectionType.UnDirected)
             {
-                _AdjacencyMatrix[DestinationIndex, SourceIndex] = 0;
+                _AdjacencyList[Destination].RemoveAll(edge => edge.Item1 == Source);
             }
         }
 
         public void DisplayGraph()
         {
-            Console.Write("  ");
-            foreach (var Vertex in _VertexDictionary)
+            foreach (var Vertex in _AdjacencyList)
             {
-                Console.Write(Vertex.Key + " ");
-            }
-            Console.WriteLine("");
-
-            foreach (var Vertex in _VertexDictionary)
-            {
-                Console.Write(Vertex.Key+" ");
-                for(int i=0 ; i<_NumberOfVertices;i++ )
+                Console.Write(Vertex.Key + " => ");
+                Vertex.Value.ForEach(edge =>
                 {
-                    Console.Write(_AdjacencyMatrix[Vertex.Value, i]+" ");
-                }
+                    Console.Write(edge.Item1 + "(" + edge.Item2+")  ");
+                });
                 Console.WriteLine("");
             }
 
@@ -123,13 +110,12 @@ namespace Implementing_Graph_Using_Adjacency_Matrix
 
         public bool IsEdge(string Source, string Destination)
         {
-            if (!_VertexDictionary.ContainsKey(Source) || !_VertexDictionary.ContainsKey(Destination))
+            if (!_AdjacencyList.ContainsKey(Source) || !_AdjacencyList.ContainsKey(Destination))
                 return false;
 
-            int SourceIndex = _VertexDictionary[Source];
-            int DestinationIndex = _VertexDictionary[Destination];
+            
 
-            return (_AdjacencyMatrix[SourceIndex, DestinationIndex] > 0);
+            return (_AdjacencyList[Source].Any(edge =>(edge.Item1==Destination)));
         }
 
     }
@@ -190,7 +176,7 @@ namespace Implementing_Graph_Using_Adjacency_Matrix
 
             graph3.DisplayGraph();
 
-            Console.WriteLine("\nIs Exist Edge Between A And B : " + graph3.IsEdge("A","B"));
+            Console.WriteLine("\nIs Exist Edge Between A And B : " + graph3.IsEdge("A", "B"));
 
             graph3.RemoveEdge("A", "B");
             Console.WriteLine("\nAfter Remove Edge Between A And B");
