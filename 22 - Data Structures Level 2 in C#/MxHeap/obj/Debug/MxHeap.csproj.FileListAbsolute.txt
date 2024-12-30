@@ -1,0 +1,7 @@
+C:\Users\moham\OneDrive\Desktop\MxHeap\bin\Debug\MxHeap.exe.config
+C:\Users\moham\OneDrive\Desktop\MxHeap\bin\Debug\MxHeap.exe
+C:\Users\moham\OneDrive\Desktop\MxHeap\bin\Debug\MxHeap.pdb
+C:\Users\moham\OneDrive\Desktop\MxHeap\obj\Debug\MxHeap.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\MxHeap\obj\Debug\MxHeap.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\MxHeap\obj\Debug\MxHeap.exe
+C:\Users\moham\OneDrive\Desktop\MxHeap\obj\Debug\MxHeap.pdb
