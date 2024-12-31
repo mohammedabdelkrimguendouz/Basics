@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|c:\\users\\dell pro\\desktop\\myfirstwindowsservice\\myfirstwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|solutionrelative:myfirstwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|c:\\users\\dell pro\\desktop\\myfirstwindowsservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|c:\\users\\dell pro\\desktop\\myfirstwindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF1EE7-B677-4CDC-9B2C-D080A17CE992}|MyFirstWindowsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\ProjectInstaller.cs",
+              "RelativeToolTip": "ProjectInstaller.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:09:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFirstWindowsService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\MyFirstWindowsService.cs",
+              "RelativeDocumentMoniker": "MyFirstWindowsService.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\MyFirstWindowsService.cs",
+              "RelativeToolTip": "MyFirstWindowsService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:54:50.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\MyFirstWindowsService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:54:34.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\DELL PRO\Desktop\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
